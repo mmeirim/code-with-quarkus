@@ -4,8 +4,6 @@ import jakarta.inject.Inject;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
-import org.mmeirim.fiap.taskList.domain.Task;
-import org.mmeirim.fiap.taskList.domain.TaskRepository;
 
 import java.util.List;
 
